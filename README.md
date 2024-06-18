@@ -34,3 +34,6 @@ Using Python, the cleaned Data was then converted to a JSON format suitable for 
   
 2. TaxiDataParser Script. The script is responsible for loading the JSON data, parsing it, and instantiating the prefabs at the correct locations in the Unity scene.
 The script also draws lines between pickup and drop-off points to visualize the paths of taxi trips.
+
+
+<img width="881" alt="Screenshot 2024-06-13 224552" src="https://github.com/cgshony/3D-Data-Viz/assets/129407856/1e2c6236-3dec-408e-96e0-8bdfe2e65783">
