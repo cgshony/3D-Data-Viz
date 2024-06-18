@@ -3,7 +3,6 @@
 
 This project visualizes NYC taxi trip data using Unity3D. It provides a 3D representation of taxi pickups and drop-offs on a map of New York City. The project aims to demonstrate how to parse and visualize geospatial data within a 3D game engine.
 
-Open Yellow Taxi Data used: https://data.cityofnewyork.us/Transportation/2009-Yellow-Taxi-Trip-Data/f9tw-8p66/about_data
 
 ## Features
 - **Data Parsing:** Reads taxi trip data from a JSON file.
@@ -15,3 +14,6 @@ Open Yellow Taxi Data used: https://data.cityofnewyork.us/Transportation/2009-Ye
 - Basic knowledge of C# and Unity
 - NYC Taxi trip data in JSON format
 
+# Project Description:
+
+Open Yellow Taxi Data used: https://data.cityofnewyork.us/Transportation/2009-Yellow-Taxi-Trip-Data/f9tw-8p66/about_data
